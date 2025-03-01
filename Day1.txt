@@ -1,1 +1,7 @@
 Printing, Commenting, debugging, String Manipulation and variables
+print("Hello" + " " + "Nikhil")
+
+#-------------
+glass3 = glass1
+glass1 = glass2
+glass2 = glass3
